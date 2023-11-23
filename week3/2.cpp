@@ -5,7 +5,7 @@ int main(){
 
     int array1[10],array2[10],temp;
     
-    printf("Ilk dizinin cift indisleriyle ikinci dizinin cift indislerini yer degistiren program.\n");
+    printf("Ilk dizinin cift indisleriyle ikinci dizinin tek indislerini yer degistiren program.\n");
     printf("Lutfen ilk diziyi giriniz: ");
     
     int i;
