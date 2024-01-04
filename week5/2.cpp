@@ -1,6 +1,5 @@
 #include <stdio.h>
 
-int digitCounter(int x);
 int digitSum(int x);
 
 int main(){
