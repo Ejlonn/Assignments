@@ -1,4 +1,5 @@
 //soruyu yanlis anladigimiz icin ugrasarak tekrar yazdigimiz bol kufur iceren kaynak kodu
+//2.cpp nin doðru versiyonu(o daha iyi btw)
 //burdan lmsdeki ödevleri a0 turkce ile yukleyenlere selamlar
 //kan ter emek uykusuzluk dolu kaynak kodu. Burdan Asrin Tok kardesime selam gonderiyorum
 
