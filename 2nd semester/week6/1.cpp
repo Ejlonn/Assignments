@@ -50,13 +50,13 @@ int main(){
 				}
 				p = temp;
 			}
-			p[size] = control;
+			*(p+size) = control;
 			size++;		
 		}
 	}
 	printf("5.biti 0 olan sayilar: \n");
 	for(i=0; i<size; i++){
-		printf("%d ",p[i]);
+		printf("%d ",*(p+i));
 	}
 	
 	fclose(fp);

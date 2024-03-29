@@ -36,14 +36,14 @@ int main(){
 				}
 				p = temp;
 			}
-			p[size] = num;
+			*(p+size) = num;
 			size++;		
 		}
 	}
 	
 	printf("3'e ve 5'e tam bolunen sayilar: ");
 	for(int i = 0; i<size; i++){
-		printf("%d ", p[i]);
+		printf("%d ", *(p+i));
 	}
 
 	printf("\n");
